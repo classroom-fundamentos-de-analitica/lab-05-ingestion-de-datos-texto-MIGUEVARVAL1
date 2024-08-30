@@ -19,6 +19,9 @@ def procesar_carpeta(carpeta):
     return datos
 
 
+
+
+
 datos_train = procesar_carpeta('train')
 datos_test = procesar_carpeta('test')
 
